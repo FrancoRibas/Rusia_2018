@@ -1,0 +1,16 @@
+1;Rusia;
+2;Arabia;
+3;egipto;
+4;Urugay;
+5;portugal;
+6;españa;
+7;marruecos;
+8;ri de iran;
+9;francia;
+10;australia;
+11;peru;
+12;dinamarca;
+13;Argentina;
+14;islandia;
+15;croacia;
+16;nigeria;
